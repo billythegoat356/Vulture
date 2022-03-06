@@ -11,9 +11,9 @@
 <br><br>
 <p align="center">
 <strong>
-text
+Vulture is a tool written in Python3 allowing you to gain access
 <br>
-text
+to all the files of the victim's computer without any permissions.
 <br><br><br>
 </strong>
 <img src="https://cdn.discordapp.com/attachments/940036299941904405/950168655453364254/unknown.png" width="750", height="550">
@@ -25,11 +25,13 @@ text
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ Doesn't ask for permissions</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Easy navigate through files</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Clients will stay in queue, so the attacker (you) cannot get DDoSed</strong>
+<br>
+<strong>+ Can be compiled to .EXE using Nuitka or Pyinstaller</strong>
 <br>
 
 <p align="right">
@@ -37,11 +39,7 @@ text
 </p>
 
 <br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
+<strong>- You have to host the server</strong>
 <br><br>
 
 -----
@@ -64,8 +62,7 @@ text
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* idea
-* idea
+* Allow multiple clients so the attacker can manage each client
 <br><br>
 
 -----
