@@ -62,7 +62,7 @@ to all the files of the victim's computer without any permissions.
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* Allow multiple clients so the attacker can manage each client
+* Allow multiple clients to be connected at the same time so the attacker can manage each client
 <br><br>
 
 -----
