@@ -1,12 +1,12 @@
 -----
 
 <p align="center">
-<img src="link", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/439958652/7d39b9f7-348b-4120-8012-9642ca451ce1", width="500", height="500">
 </p>
 
 -----
 
-### <p align="center">🌍 Title 🌍</p>
+### <p align="center">🦅 Vulture 🦅</p>
 
 <br><br>
 <p align="center">
@@ -16,7 +16,7 @@ text
 text
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/940036299941904405/950168655453364254/unknown.png" width="750", height="400">
+<img src="https://cdn.discordapp.com/attachments/940036299941904405/950168655453364254/unknown.png" width="750", height="550">
 </p>
 <br>
 
@@ -33,7 +33,7 @@ text
 <br>
 
 <p align="right">
-<img src="link" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/439958652/7d39b9f7-348b-4120-8012-9642ca451ce1" width="250", height="250">
 </p>
 
 <br>
@@ -52,8 +52,8 @@ text
 <p align="center"><strong><i>⚪🟢🔵🔴🟣⚫</i></strong</p>
 
 <br><br>
-* Time: 🟢
-* Complexity: 🟣
+* Time: 🔴 (+ 12h)
+* Complexity: 🔴
 * Service: 🔴
 <br><br>
 
@@ -73,7 +73,7 @@ text
 ### <p align="center">🎨 Contributors 🎨</p>
 
 <br><br>
-* [user](link) | Part
+* [loTus04](https://github.com/loTus04) | Helped me with the organization of the project and with the client part
 <br><br>
   
 -----
