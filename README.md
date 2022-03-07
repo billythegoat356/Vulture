@@ -40,6 +40,10 @@ to all the files of the victim's computer without any permissions.
 
 <br>
 <strong>- You have to host the server</strong>
+<br>
+<strong>- You have to open your ports or make a localtunnel</strong>
+<br>
+<strong>- The victim needs the 'requests' library</strong>
 <br><br>
 
 -----
