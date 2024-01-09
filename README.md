@@ -13,7 +13,7 @@
 <strong>
 Vulture is a tool written in Python3 allowing you to gain access
 <br>
-to all the files of the victim's computer without any permissions.
+to all the files of another computer in a terminal interface
 <br><br><br>
 </strong>
 <img src="https://cdn.discordapp.com/attachments/940036299941904405/950168655453364254/unknown.png" width="750", height="550">
@@ -29,7 +29,7 @@ to all the files of the victim's computer without any permissions.
 <br>
 <strong>+ Easy navigate through files</strong>
 <br>
-<strong>+ Clients will stay in queue, so the attacker (you) cannot get DDoSed</strong>
+<strong>+ Clients will stay in queue</strong>
 <br>
 <strong>+ Can be compiled to .EXE using Nuitka or Pyinstaller</strong>
 <br>
@@ -42,8 +42,6 @@ to all the files of the victim's computer without any permissions.
 <strong>- You have to host the server</strong>
 <br>
 <strong>- You have to open your ports or make a localtunnel</strong>
-<br>
-<strong>- The victim needs the 'requests' library</strong>
 <br><br>
 
 -----
@@ -66,7 +64,7 @@ to all the files of the victim's computer without any permissions.
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* Allow multiple clients to be connected at the same time so the attacker can manage each client
+* Allow multiple clients to be connected at the same time so you can manage each one
 <br><br>
 
 -----
